@@ -1,6 +1,6 @@
 # TecnicasProgramacao
 
-Utilize a Ferramenta NetBeans
+Utilize Ferramenta NetBeans
 
 
 🗂️ Configuração do Banco de Dados
