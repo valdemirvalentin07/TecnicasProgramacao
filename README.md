@@ -1,7 +1,6 @@
 # TecnicasProgramacao
 
-🚀 Visualizando o Projeto no NetBeans
-Para executar este projeto corretamente utilizando o NetBeans, siga os passos abaixo:
+Utilize a Ferramenta NetBeans
 
 
 🗂️ Configuração do Banco de Dados
